@@ -2,9 +2,7 @@
   "name": "crypto-news-website",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-"homepage": "https://moaz178.github.io/",
-  "scripts": {
+  "type": "module",  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

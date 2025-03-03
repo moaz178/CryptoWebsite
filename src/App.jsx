@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <main className="flex-grow">
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/CryptoWebsite" element={<LandingPage />} />
           <Route path="/news" element={<NewsPage />} />
           <Route path="/coin/:id" element={<CoinDetailsPage />} />
         </Routes>
